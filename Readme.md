@@ -5,7 +5,7 @@ Técnico en Programación orientado a **ciberseguridad ofensiva y defensiva**. P
 - 🔐 Enfoque en pentesting web, hacking ético y automatización con Python
 - 🧪 Practicando activamente en TryHackMe, Hack The Box y PortSwigger Web Security Academy
 - 🎓 Cursando el Google Cybersecurity Professional Certificate
-- 📍 CABA, Argentina
+- 📍 Argentina
 
 ---
 
