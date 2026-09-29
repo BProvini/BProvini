@@ -1,4 +1,4 @@
-# ¡Hola! Soy Bautista Provini 👋
+# ¡Hola! Soy Bautista
 
 Técnico en Programación orientado a **ciberseguridad ofensiva y defensiva**. Practico explotación web y escalada de privilegios en laboratorios, y aplico ese conocimiento en auditorías reales.
 
@@ -18,10 +18,6 @@ Técnico en Programación orientado a **ciberseguridad ofensiva y defensiva**. P
 ---
 
 ## 🗂️ Proyectos destacados
-
-### 🔒 Auditoría de Seguridad Web (WordPress)
-Análisis de seguridad completo sobre un sitio en producción: identificación de vectores de ataque comunes, desarrollo de reglas de hardening (`.htaccess`) y un módulo de seguridad a medida (`security-functions.php`), entregado con informe formal de hallazgos y remediación.
-📁 [`wordpress-security-audit`](./wordpress-security-audit) — *(agregar link cuando subas el repo)*
 
 ### 🚩 Writeups de CTF
 Resoluciones documentadas de máquinas y salas de práctica.
@@ -43,5 +39,5 @@ Resoluciones documentadas de máquinas y salas de práctica.
 
 ## 📫 Contacto
 
-- Email: bprovini1@gmail.com
+- Email: bprov123987@gmail.com
 - GitHub: [@BProvini](https://github.com/BProvini)
