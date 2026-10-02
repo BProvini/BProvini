@@ -39,5 +39,5 @@ Resoluciones documentadas de máquinas y salas de práctica.
 
 ## 📫 Contacto
 
-- Email: bprov123987@gmail.com
+- Email: bprovini.ciberseguridad@gmail.com
 - GitHub: [@BProvini](https://github.com/BProvini)
